@@ -32,6 +32,10 @@
     "ignoredBuiltDependencies": [
       "bcrypt",
       "sharp"
+    ],
+    "onlyBuiltDependencies": [
+      "bcrypt",
+      "sharp"
     ]
   }
 }
